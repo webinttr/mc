@@ -8,16 +8,16 @@ sass main.scss:main.css -w
   --cube-size: 5rem;
   --camera-distance: 50rem;
   --air-image: none;
-  --pickaxe-image: url("./assets/pickaxe.png");
-  --stone-image: url("./assets/stone.png");
-  --grass-image: url("./assets/grass_side_carried.png");
-  --grass-top-image: url("./assets/grass_carried.png");
-  --dirt-image: url("./assets/dirt.png");
-  --log-image: url("./assets/log_oak.png");
-  --wood-image: url("./assets/oak_planks.png");
-  --log-top-image: url("./assets/log_oak_top.png");
-  --leaves-image: url("./assets/azalea_leaves.png");
-  --glass-image: url("./assets/glass.png");
+	--air-image: none;
+	--pickaxe-image:      url("https://raw.githubusercontent.com/webinttr/mc/main/pickaxe.png");
+	--stone-image:        url("https://raw.githubusercontent.com/webinttr/mc/main/stone.png");
+	--grass-image:        url("https://raw.githubusercontent.com/webinttr/mc/main/grass_side_carried.png");
+	--grass-top-image:    url("https://raw.githubusercontent.com/webinttr/mc/main/grass_carried.png");
+	--dirt-image:         url("https://raw.githubusercontent.com/webinttr/mc/main/dirt.png");
+	--log-image:          url("https://raw.githubusercontent.com/webinttr/mc/main/log_oak.png");
+	--log-top-image:      url("https://raw.githubusercontent.com/webinttr/mc/main/log_oak_top.png");
+	--leaves-image:       url("https://raw.githubusercontent.com/webinttr/mc/main/azalea_leaves.png");
+	--glass-image:        url("https://raw.githubusercontent.com/webinttr/mc/main/glass.png");
   pointer-events: none;
 }
 
